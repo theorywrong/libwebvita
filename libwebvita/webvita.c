@@ -1,3 +1,7 @@
+/*
+* Copyright (c) 2016 - TheoryWrong
+*/
+
 #include "webvita.h"
 
 // Initialize NET Library
