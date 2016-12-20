@@ -1,3 +1,7 @@
+/*
+* Copyright (c) 2016 - TheoryWrong
+*/
+
 #ifndef WEB_H
 #define WEB_H
 
